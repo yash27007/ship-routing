@@ -160,13 +160,12 @@ See `backend/.env.example` for full configuration options.
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a Pull Request
 
-## License
-
-[Add your license information here]
 
 ## Authors
-
-[Add author information here]
+- Yashwanth Aravind
+- Bhargavi Padidham
+- Aakash U
+- Naveenkumar S
 
 ## Acknowledgments
 
